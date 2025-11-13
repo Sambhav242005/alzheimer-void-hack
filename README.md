@@ -1,9 +1,6 @@
 # 🧠 MedGemma-AD: Multimodal Alzheimer’s Detection & Monitoring
 
 **AI-Powered Early Screening using MedGemma, Speech Analysis & Facial Biomarkers**
-
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/ldw89y3h9oT)
-
 ---
 
 ## 🚀 Overview
@@ -133,8 +130,7 @@ Dashboard Interface
 ## 🔗 Deployment Link
 
 Your app is live here:
-👉 **[https://vercel.com/schools-projects/v0-void-hack](https://vercel.com/schools-projects/v0-void-hack)**
-*(displayed only as a deployment URL, with no platform mention)*
+👉 [**[https://vercel.com/schools-projects/v0-void-hack](https://vercel.com/schools-projects/v0-void-hack)**](https://v0-void-hack-6jel76zsn-schools-projects.vercel.app/)
 
 ---
 
