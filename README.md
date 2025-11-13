@@ -69,7 +69,6 @@ Our approach combines **MedGemma** with cognitive, speech, and facial biomarkers
 
 ### 🖥️ Edge/Offline Mode
 
-* Models exported as **ONNX/TFLite**
 * Works fully offline (laptop / Jetson Nano)
 * Encrypted local storage
 * Fully consent-based data handling
@@ -101,9 +100,9 @@ Dashboard Interface
 ### AI / ML
 
 * MedGemma
-* PyTorch / ONNX Runtime
-* YOLOv8
-* wav2vec2 / torchaudio
+* PyTorch 
+* YOLOv12
+* torchaudio
 
 ### Backend
 
@@ -113,8 +112,7 @@ Dashboard Interface
 
 ### Frontend
 
-* v0.app
-* Optional: Gradio / Streamlit
+* Next.js/React.js
 
 ---
 
